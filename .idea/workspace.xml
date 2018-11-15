@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="167b4d8a-683a-4300-a866-f437f734fe7b" name="Default Changelist" comment="" />
+    <list default="true" id="167b4d8a-683a-4300-a866-f437f734fe7b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/challenge-creator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/challenge-creator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/controller/ChallengeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/controller/ChallengeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/Challenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallengeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallengeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,51 +23,57 @@
     <session id="-1733364221">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.182" value="1" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.81" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Dockerfile" value="1" />
           <entry key="class" value="7" />
-          <entry key="java" value="88" />
-          <entry key="properties" value="6" />
-          <entry key="xml" value="2" />
+          <entry key="java" value="96" />
+          <entry key="properties" value="7" />
+          <entry key="xml" value="3" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="7" />
-          <entry key="JAVA" value="88" />
-          <entry key="Properties" value="6" />
-          <entry key="XML" value="2" />
+          <entry key="JAVA" value="96" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="7" />
+          <entry key="XML" value="3" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Dockerfile" value="19" />
           <entry key="dummy" value="2" />
-          <entry key="java" value="4411" />
-          <entry key="properties" value="274" />
-          <entry key="xml" value="4" />
+          <entry key="java" value="4678" />
+          <entry key="properties" value="275" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4411" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="274" />
-          <entry key="XML" value="4" />
+          <entry key="JAVA" value="4678" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Properties" value="275" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -65,109 +81,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/Challenge.java">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/repository/ChallengeRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/repository/ChallengeRepositoryL1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/exceptions/ChallengeAlreadyExistsException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallengeServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3555">
-              <caret line="255" column="9" selection-start-line="255" selection-start-column="9" selection-end-line="255" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/controller/ChallengeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1455">
-              <caret line="112" column="71" selection-start-line="112" selection-start-column="71" selection-end-line="112" selection-end-column="71" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallengeService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="20" selection-start-line="20" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/exceptions/ChallengeNotFoundException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="59" selection-start-column="59" selection-end-column="59" />
+            <state relative-caret-position="45">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -189,13 +106,14 @@
       <find>ImdbId</find>
       <find>ID</find>
       <find>voId</find>
+      <find>UserProfile</find>
     </findStrings>
     <replaceStrings>
-      <replace>Challenge</replace>
       <replace>challenge</replace>
       <replace>iD</replace>
       <replace>id</replace>
       <replace>void</replace>
+      <replace>Challenge</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -217,9 +135,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/repository/ChallangeRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallangeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallangeServiceImpl.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/challengecreator/repository/ChallengeRepositoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/Challenge.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/challengecreator/controller/ChallengeControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/challengecreator/service/ChallengeServiceImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeInnerObj.java" />
@@ -229,19 +145,26 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/repository/ChallengeRepoStioryL1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/repository/ChallengeRepositoryL1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/repository/ChallengeRepositoryL3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/config/WebConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/config/MongoConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/exceptions/ChallengeAlreadyExistsException.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/exceptions/ChallengeNotFoundException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallengeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/repository/ChallengeRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/controller/ChallengeController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/kafka/consumer/KafkaConfigurationCons.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/kafka/consumer/KafkaConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/Challenge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallengeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/kafka/producer/ChallengeResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/kafka/producer/KafkaConfigurationProd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/controller/ChallengeController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -274,13 +197,16 @@
     <option name="width" value="1299" />
     <option name="height" value="743" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,68 +217,17 @@
             <path>
               <item name="challenge-creator" type="b2602c69:ProjectViewProjectNode" />
               <item name="challenge-creator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge-creator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge-creator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge-creator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge-creator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge-creator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge-creator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="challengecreator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge-creator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge-creator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="challengecreator" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge-creator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge-creator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge-creator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge-creator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge-creator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge-creator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542198731619" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542277522290" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/before project/testing/movie" />
@@ -383,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.challenge-creator [package]">
+  <component name="RunManager" selected="Application.ChallengeCreatorApplication">
     <configuration name="ChallengeCreatorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.challengecreator.ChallengeCreatorApplication" />
       <module name="challenge-creator" />
@@ -497,10 +372,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChallengeCreatorApplication" />
         <item itemvalue="Maven.challenge-creator [package]" />
         <item itemvalue="Maven.challenge-creator [compile]" />
         <item itemvalue="Maven.challenge-creator [clean]" />
-        <item itemvalue="Application.ChallengeCreatorApplication" />
         <item itemvalue="JUnit.ChallengeRepositoryTest.testSaveChallenge" />
       </list>
     </recent_temporary>
@@ -531,9 +406,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28731045" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3008779" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -542,13 +416,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3203252" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31973898" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3284553" />
@@ -565,11 +439,6 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challenge-creator/repository/ChallengeRepository.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challenge-creator/controller/ChallengeController.java" />
@@ -577,13 +446,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challenge-creator/service/ChallangeServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challenge-creator/exceptions/ChallengeNotFoundException.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challenge-creator/domain/Challenge.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/challengecreator/repository/ChallengeRepositoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -622,16 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/repository/ChallengeRepositoryL2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -643,9 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,9 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,9 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#339#340#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -707,26 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/controller/ChallengeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="112" column="71" selection-start-line="112" selection-start-column="71" selection-end-line="112" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallengeService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -744,30 +567,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="59" selection-start-column="59" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallengeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3555">
-          <caret line="255" column="9" selection-start-line="255" selection-start-column="9" selection-end-line="255" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/Challenge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="195">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/kafka/consumer/KafkaConfigurationCons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/kafka/consumer/KafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/service/ChallengeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="182" column="64" selection-start-line="182" selection-start-column="64" selection-end-line="182" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/domain/ChallengeObjL1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/kafka/producer/KafkaConfigurationProd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/controller/ChallengeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/challengecreator/kafka/producer/ChallengeResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
         </state>
       </provider>
     </entry>

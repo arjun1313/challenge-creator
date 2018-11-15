@@ -1,0 +1,16 @@
+
+Usquid:S3655X"7Call "Optional#isPresent()" before accessing the value.(Ö«¼•8ÏÀø°ñ,
+=squid:S14521"&Remove usage of generic wildcard type.(¶”“¢
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦ÅÕá
+gsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(à»ôüÿÿÿÿ
+=squid:S1452T"&Remove usage of generic wildcard type.(Ïóê†
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(à»ôüÿÿÿÿ
+bsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(öŞú
+Bsquid:S1452;"&Remove usage of generic wildcard type.(÷È©şÿÿÿÿ
+=squid:S1452c"&Remove usage of generic wildcard type.(™ñì
+gsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(ü‚ñ»şÿÿÿÿ
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(ü‚ñ»şÿÿÿÿ
+=squid:S1452%"&Remove usage of generic wildcard type.(ŠÚÙ©
+hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+Bsquid:S1452s"&Remove usage of generic wildcard type.(õİ‹ÿÿÿÿÿ
+‚squid:S1488*"fImmediately return this expression instead of assigning it to the temporary variable "responseEntity".(ù÷Í—ùÿÿÿÿ
